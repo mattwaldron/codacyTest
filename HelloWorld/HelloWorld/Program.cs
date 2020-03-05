@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class Program
+    public class Program
     {
+        public const int myFavoriteNum = 22;
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
